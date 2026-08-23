@@ -1,8 +1,14 @@
 ## !! 
-these are my current dotfiles , i dont customize my system to much but yeah, they're my nixos, nvim, fish and kitty dots
+```rust
+os : **arch linux**
+wm : **hyprland / caelestia shell**
+shell : **fish**
+terminal : **foot**
+editor : **nvim**
+```
 
 ## ??
 for everything text me on discord : @parano_d
 
 ## ⭐ 
-leave a star if u liked my configs
+a star would be appreciated
