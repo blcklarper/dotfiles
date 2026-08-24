@@ -6,6 +6,7 @@ shell : **fish**
 terminal : **foot**
 editor : **nvim**
 ```
+![image](20260824153836.png)
 
 ## ??
 for everything text me on discord : @parano_d
