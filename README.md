@@ -1,15 +1,14 @@
 ## !! 
 ```rust
-os : **arch linux**
-wm : **hyprland / caelestia shell**
-shell : **fish**
-terminal : **foot**
-editor : **nvim**
+os : **gentoo**
+wm : **oxwm**
+shell : **bash**
+terminal : **alacritty**
+editor : **vis**
 ```
-![image](20260824153836.png)
 
 ## ??
-for everything text me on discord : @parano_d
+for everything text me on discord : @buttarebuttare
 
 ## ⭐ 
 a star would be appreciated
