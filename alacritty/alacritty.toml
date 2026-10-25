@@ -1,0 +1,27 @@
+[font]
+size = 12.0
+
+[font.normal]
+family = "Iosevka Nerd Font Mono"
+style = "Regular"
+
+[colors.primary]
+background = "#0f0f0f"
+
+[colors.cursor]
+text = "#f6be93"
+cursor = "#ebbcba"
+
+[colors.selection]
+text = "#ffffff"
+background = "#403d52"
+
+[colors.normal]
+black   = "#0f0f0f"
+red     = "#f16e65"
+green   = "#7ec97e"
+yellow  = "#efbf71"
+blue    = "#71a1d6"
+magenta = "#e28dc6"
+cyan    = "#6fc3b5"
+white   = "#f4decd"
