@@ -1,14 +1,5 @@
-## !! 
-```rust
-os : **gentoo**
-wm : **oxwm**
-shell : **bash**
-terminal : **alacritty**
-editor : **vis**
-```
+## blckfiles
+this repo include all of the programs config files created by ***blcklarper***.
 
-## ??
-for everything text me on discord : @buttarebuttare
-
-## ⭐ 
-a star would be appreciated
+## special thanks
+* i want to thank Dacctal: https://symlinx.net for the high inspiration of his themes
